@@ -145,6 +145,11 @@ header .intro-text .name {
   color: #d5d5df;
 }
 
+.hi{
+  font-size:3rem;
+  display: block;
+}
+
 header .intro-text .title {
   font-size: 1.25em;
   font-weight: 300;
