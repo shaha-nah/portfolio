@@ -42,7 +42,7 @@ $("#mail").mouseover(function(){
 });
 
 $("#mail").mouseout(function(){
-    document.getElementById("title").innerHTML = 'I build things.';
+    document.getElementById("title").innerHTML = 'I write codes.';
     document.getElementById("title").classList.add("neonText");
 });
 
@@ -57,7 +57,7 @@ $("#linkedin").mouseover(function(){
 });
 
 $("#linkedin").mouseout(function(){
-    document.getElementById("title").innerHTML = 'I build things.';
+    document.getElementById("title").innerHTML = 'I write codes.';
     document.getElementById("title").classList.add("neonText");
 });
 
@@ -67,6 +67,6 @@ $("#github").mouseover(function(){
 });
 
 $("#github").mouseout(function(){
-    document.getElementById("title").innerHTML = 'I build things.';
+    document.getElementById("title").innerHTML = 'I write codes.';
     document.getElementById("title").classList.add("neonText");
 });
